@@ -1,6 +1,6 @@
 # Hi there, I'm Sochamroun! 👋
 
-Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to the developer community.
+Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to the developer community. ![Visitors](https://komarev.com/ghpvc/?username=Sochamroun&repo=Sochamroun&color=green)
 
 ## 🚀 About Me
 
