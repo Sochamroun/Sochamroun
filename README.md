@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sochamroun! 👋
 
-<!--
-**Sochamroun/Sochamroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to the developer community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer with a strong interest in building impactful projects and exploring new technologies. I believe in writing clean code, collaborating effectively, and continuously learning.
+
+- 🔭 Currently exploring new opportunities and projects
+- 🌱 Always learning and growing in my development journey
+- 💡 Interested in creative problem-solving
+- 🤝 Open to collaboration and contributing to open-source projects
+
+## 📂 Featured Projects
+
+Here are some of my notable projects:
+
+- **[Termux Setup Tool](https://github.com/Sochamroun/Termux-EasySetup)** - គុណភាព
+
+## 🌐 Connect With Me
+
+- **GitHub:** [@Sochamroun](https://github.com/Sochamroun)
+- **Email:** chhemsochamroeun@gmail.com
+
+## 📝 Latest Activity
+
+I'm currently working on exciting projects and open to interesting opportunities. Feel free to reach out!
+
+---
+
+*Last updated: 2026*
