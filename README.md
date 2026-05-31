@@ -1,4 +1,5 @@
 # Hi there, I'm Sochamroun! 👋
+![Banner](https://github.com/Sochamroun/Sochamroun/blob/5479a3e9414c904d468704b3a1cb4d2c1dc9b180/photo.jpg)
 
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions and contributing to the developer community. ![Visitors](https://komarev.com/ghpvc/?username=Sochamroun&repo=Sochamroun&color=green)
 
