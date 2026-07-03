@@ -10,12 +10,8 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 ---
 
 ## 🚀 About Me
-
-I don't know 😅
----
-
-## 🛠️ Tech Stack & Skills
-lock
+[![Facebook](https://img.shields.io/badge/📍-Facebook-blue?style=for-the-badge)](https://www.facebook.com/share/18q25LzNnc/)
+[![telegram](https://img.shields.io/badge/🌐-Telegram-blue?style=for-the-badge)](https://t.me/Sochamroun123)
 ---
 ## Quick Navigation / ការរុករករហ័ស
 
@@ -39,6 +35,8 @@ lock
 [![✅ Termux](https://img.shields.io/badge/🥱-Termux_Copy-blue?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup/releases/tag/App)
 ## 🔗 Install Material Files
 [![Material Files](https://img.shields.io/badge/📁-Material_Files-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+
+
 
 
 
