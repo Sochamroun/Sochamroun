@@ -1,5 +1,6 @@
 # Hi there, I'm Sochamroun! 👋
-![Banner](https://github.com/Sochamroun/Sochamroun/blob/5479a3e9414c904d468704b3a1cb4d2c1dc9b180/photo.jpg)
+<img src="./Gif/Sochamroeun.gif" width="85%" alt="Sochamroeun">
+
 
   ![Visitors](https://komarev.com/ghpvc/?username=Sochamroun&repo=Sochamroun&color=green)
 
@@ -23,6 +24,8 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 
 [![🌐 Termux Download video and music](https://img.shields.io/badge/🌐-Termux_Download_video_and_music-blue?style=for-the-badge)](https://github.com/Sochamroun/Download-mp3-mp4)
 
-* 🌱 Termux-EasySetup
+* 🌱 Termux-EasySetup 
 
 [![🌱 Termux-EasySetup](https://img.shields.io/badge/🌐-Termux_Download_video_and_music-red?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup)
+
+![Banner](https://github.com/Sochamroun/Sochamroun/blob/5479a3e9414c904d468704b3a1cb4d2c1dc9b180/photo.jpg)
