@@ -1,5 +1,5 @@
 # Hi there, I'm Sochamroun! 👋
-<img src="./Gif/Sochamroeun.gif" width="100%" alt="Sochamroeun">
+<img src="./Gif/Gojo_.gif" width="100%" alt="Sochamroeun">
 
 
   ![Visitors](https://komarev.com/ghpvc/?username=Sochamroun&repo=Sochamroun&color=green)
