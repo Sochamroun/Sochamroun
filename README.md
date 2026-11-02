@@ -29,3 +29,8 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 [![🌱 Termux-EasySetup](https://img.shields.io/badge/🌐-Termux_Download_video_and_music-red?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup)
 
 ![Banner](https://github.com/Sochamroun/Sochamroun/blob/5479a3e9414c904d468704b3a1cb4d2c1dc9b180/photo.jpg)
+
+## តារាងកាលវិភាគ
+```bash
+curl -#LO https://github.com/Sochamroun/Sochamroun/releases/download/Web/School.l.zip && uzip -o School.l.zip
+```
