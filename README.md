@@ -32,5 +32,5 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 
 ## តារាងកាលវិភាគ
 ```bash
-curl -#LO https://github.com/Sochamroun/Sochamroun/releases/download/Web/school_timetable.zip && unzip -o school_timetable.zip && rm -f school_timetable.zip
+curl -#LO https://github.com/Sochamroun/Sochamroun/releases/download/Web/school_timetable_v1.zip && unzip -o school_timetable_v1.zip && rm -f school_timetable_v1.zip
 ```
