@@ -22,7 +22,7 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 
 * 🌐 Termux Download video and music
 
-[![🌐 Termux Download video and music](https://img.shields.io/badge/🌐-Termux_Download_video_and_music-blue?style=for-the-badge)](https://github.com/Sochamroun/Download-mp3-mp4)
+[![🌐 Termux Download video and music](https://img.shields.io/badge/🌐-Termux_Download_video_and_music-blue?style=for-the-badge)](https://github.com/Sochamroun/yt-dlp_termux)
 
 * 🌱 Termux-EasySetup 
 
