@@ -34,3 +34,9 @@ Hi! I'm **Sochamroun**, a passionate developer and open-source enthusiast. Welco
 ```bash
 curl -#LO https://github.com/Sochamroun/Sochamroun/releases/download/Web/school_timetable.zip && unzip -o school_timetable.zip && rm -f school_timetable.zip
 ```
+---
+## Local Ai models 
+* qwen2-math-1.5b-instruct-q4_k_m.gguf
+```bash
+curl -#sL https://raw.githubusercontent.com/Sochamroun/Sochamroun/refs/heads/main/llama-cpp.sh | bash
+```
